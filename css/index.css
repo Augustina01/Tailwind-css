@@ -1,0 +1,26 @@
+img{
+    min-height:95%;
+    min-width: 99%;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 4px;
+}
+.imagetitle{
+    color:brown;
+    font-size: large;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 5px;
+}
+:hover.imagetitle{
+    color: chartreuse;
+    background-color: teal;
+}
+.header{
+    font-weight: 700;
+    font-size: larger;
+    text-align: center;
+    color: rgb(255, 0, 128);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
